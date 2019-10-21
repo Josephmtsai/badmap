@@ -25,7 +25,7 @@ six==1.10.0
 uritemplate==3.0.0
 urllib3==1.23
 waitress==1.0.2
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 python-dotenv==0.6.4
 line-bot-sdk==1.7.2
 future==0.16.0
